@@ -9,7 +9,8 @@ import SerachTitle from "./Componenet/SerachTitle";
 import SearchRating from "./Componenet/SearchRating";
 import Description from "./Description";
 import Switch from "react-bootstrap/esm/Switch";
-import { Route } from "react-router";
+import { Route } from "react-router-dom";
+
 function App() {
   let [tabmovies, setTabmovies] = useState([
     {
@@ -68,7 +69,7 @@ function App() {
     <>
       <SerachTitle setSearch={setSearch} />
       <Switch>
-        <Route path="/description" component={Description} />
+        <Route path="/Description" component={Description} />
         <Route exact path="/">
           <Container>
             <SearchRating rate={rate} setRate={setRate} />

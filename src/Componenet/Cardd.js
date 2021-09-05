@@ -15,7 +15,7 @@ function Cardd({ elcard }) {
 
         <Link
           to={{
-            pathname: "/description",
+            pathname: "/Description",
             state: { title: elcard.title, trailer: elcard.trailer },
           }}
         >
