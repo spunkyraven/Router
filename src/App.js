@@ -19,7 +19,7 @@ function App() {
         "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
       year: 1972,
       rating: 3,
-      trailer: "https://www.youtube.com/watch?v=UVCP4bKy9Iw",
+      trailer: "https://www.youtube-nocookie.com/embed/sY1S34973zA",
     },
     {
       title: "Inception",
@@ -27,6 +27,7 @@ function App() {
         "https://starzplay-img-prod-ssl.akamaized.net/474w/WarnerBrothers/INCEPTIONY2010M/INCEPTIONY2010M-474x677-PST.jpg",
       year: 2010,
       rating: 4,
+      trailer: "https://www.youtube.com/embed/YoHD9XEInc0",
     },
     {
       title: "300",
@@ -34,6 +35,7 @@ function App() {
         "https://resizing.flixster.com/Q3yUH5rCj71Wc2LjYMaEbvSvxGw=/206x305/v2/https://flxt.tmsimg.com/assets/p163191_p_v10_an.jpg",
       year: 2007,
       rating: 2,
+      trailer: "https://www.youtube.com/embed/UrIbxk7idYA",
     },
     {
       title: "The Matrix",
@@ -41,6 +43,7 @@ function App() {
         "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg",
       year: 2005,
       rating: 4,
+      trailer: "https://www.youtube.com/embed/vKQi3bBA1y8",
     },
     {
       title: "Django",
@@ -48,6 +51,7 @@ function App() {
         "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnm2FczCxSnt69XUZqqI5-sfy66SvjiV0du9mfUKRRCGqVAurt",
       year: 20012,
       rating: 3,
+      trailer: "https://www.youtube.com/embed/0fUCuvNlOCg",
     },
     {
       title: "8miles",
@@ -55,6 +59,7 @@ function App() {
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzjRFNBNG1AjDMi0P51RjuP8sCBrqV_h71TRBTlYXV9jErIhhG",
       year: 2002,
       rating: 2,
+      trailer: "https://www.youtube.com/embed/axGVrfwm9L4",
     },
   ]);
 
